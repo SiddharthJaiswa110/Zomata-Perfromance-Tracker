@@ -8,7 +8,7 @@ An interactive *Power BI dashboard* built to analyze and track *Zomato’s servi
 
 ## 📸 Dashboard Preview
 
-![Zomato Dashboard Preview]()  
+![Zomato Dashboard Preview](https://github.com/SiddharthJaiswa110/Zomata-Perfromance-Tracker/blob/main/snap%20of%20the%20dashboard.png)  
 (Replace with the actual image path or link)
 
 ---
